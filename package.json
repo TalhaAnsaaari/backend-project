@@ -1,0 +1,22 @@
+{
+  "name": "hellobackend",
+  "version": "1.0.0",
+  "description": "backend practice",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Talha Ansari",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
